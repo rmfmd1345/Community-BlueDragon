@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "community-projects-blue-dragon",
+  "private_key_id": "7a90528babb002de92b9455db1af02d0a49dd5f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCMN3JX3sbQq1/7\n64vWDbyaXJjKP2Xu8ROqNJ7kkL5hT7uP5aeuOYZ2Q4+kWP0cSUbvQaIy1EgqHQTb\np2iE8u/Jhf6E7TID+YpaDcwCoAPhsE3BVuyXUR/C9YxwvxtaeP8BSX1iPbf1X3hS\nDlb1KoqqmGUKetdWA70CJJQMy7LeWKuSqsL+a7DPlRvWzYNczALcLDhiLR/HmIxs\nfBfnd76veFPwjhEAzIyitwKVrLVhANaCc2w+TWAhioteTkspTB7+pyRsiDGeCJy8\naOWLUn6O9CM/lOdL1pQT0IuNgz93/ekY7n6yMb57uWCDtvDaGBTaYCJwHaJ2uhKW\njD/PMYbpAgMBAAECggEAH/qpXncVuxPK8WbYXrqFUGNcCYyKEAP1qzUTJCgK86C+\ns2P6aVb/Xsur4BzXpXLk9b5vYs5doxU5PWuh/+h0Xe7sjJ6YcKWiM0XASLz8BaYz\nJaxQi3ZaGxnrrO85Kto7tqxvJ0/SO+lJRNW2aXYJaD0XlltL73cszWdQSNbQdbtG\n9QSaQiRYCaxVkqb3JmtERF3ho9EhKecclFN41osOX/+5Ah0JuEHGfJhrXRSWP1fX\nAOLspj11BTMlpM3z5el9jsGvvJcYTie41wKvTEYSqWH5trvP9Lw7UrMYRPOHu7EQ\nVEMtChNq8vlf1+JSDZU+i/B5zl8yyQaIK2GYCLPwfQKBgQDEI9tbCzdHyX2eN9XG\nw4U28bmDrf22FXGhsyhP0JijyfuG6ofm/03vZWj3qU/9sepD3rAyDob8TIu2ZTj8\ngfT1boUQRXSJ3H0t5k8R4guOLkYFoMtESpmkAdqp1exdhcIL5YyNkFW6QzIOq3KC\nPTKsByhlrSMKKnxgXa5UZqEapwKBgQC3Al5PfyzEuPHOg0xQare9EqSdR255ufUR\nizPweZgqaagDO98Doso3zlKDeRR4LXN294QJMzc4Kd/4rxnIU9a8FPNC/aHC5flF\nCJDSOSf9w2hNvEnstfpdCNMUbhDZxdOX6mmByL0nIuz5AG2BD30wN3ITr0hVHwUS\nBBW/P97T7wKBgQDB0hUfwNOd0tSZlt9fjTKE+xWxtCv01Pf3LE13odBUenJd/kDR\n2hQvr2ys39k1/6xZ6SMANC7b/uBJG3nWvK1OIyrGy3vAB+yDgQU9zLxSghOb2CtF\njtqIoXRtRAJQ4K7ChtH/ylOMvn4m1PFRFhyOtnwLDa6EizthFvIAYXJuHQKBgASK\nYICkbR3sYMN46nnMTAa64a6tSQZoILZwt7ctrSLQQETkRWI3tcCws8djR6i7p/O5\nrGL2DFauY0ouPfuEaP19n5N3632EayzVS5KLrHxVTs8u7r6avT11rJcDLBPbHqbU\nQA3iRx8jdLGw2waqtbZuibwHS0ohXOTXiRqXoRWtAoGBAK2qROfpzdt1DLqPrMo9\nTj12av7Bi9YdgPQyC9u7z4RUPFuwFZCBpfrMBr9Nq3V0YUFpo6k61ILlx3ZYJSRq\njki3kMvpb4AOLIYN60OwLSW/faeoBjmO6mI0c3Q70qV9vzzQZ8fST760RtawU+ME\nfrrQ/1olgpWPLI8MaojzHiew\n-----END PRIVATE KEY-----\n",
+  "client_email": "blue-dragon@community-projects-blue-dragon.iam.gserviceaccount.com",
+  "client_id": "104815375057519618077",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blue-dragon%40community-projects-blue-dragon.iam.gserviceaccount.com"
+}
