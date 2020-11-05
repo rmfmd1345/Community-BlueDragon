@@ -27,7 +27,7 @@ var googleAuth = require('google-auth-library');
 var SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 var TOKEN_DIR = (process.env.HOME || process.env.HOMEPATH || process.env.USERPROFILE) + '/.credentials/';
 var TOKEN_PATH = TOKEN_DIR + 'sheets.googleapis.com-nodejs-rsdAuth.json';
-var CLIENT_SECRET = 'Rapid Sheet Data Service-be67afaae764.json';   // filename eg.: "rsd_example_secret.json"
+var CLIENT_SECRET = 'community-projects-blue-dragon-7a90528babb0.json';   // filename eg.: "rsd_example_secret.json"
 
 
 // 
